@@ -45,6 +45,7 @@
 	                 <flowInitContext>
 	                     <masterBranchName>master</masterBranchName>
 	                     <releaseBranchPrefix />
+	                     <hotfixBranchPrefix>hotfix-</hotfixBranchPrefix>
 	                </flowInitContext>
 	            </configuration>
         	</plugin>
