@@ -3,7 +3,7 @@
 	<groupId>br.ufms.agetic</groupId>
 	<artifactId>teste-git</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	
 	<properties>
 		<jdk.compiler.version>1.8</jdk.compiler.version>
